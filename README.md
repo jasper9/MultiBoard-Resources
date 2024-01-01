@@ -41,9 +41,11 @@ links here
     Tiles range in size from 2x2 to 16x16
 
     Core tile measurements are 25mm * Tile  + 8mm x 25mm * Tile  + 8mm
+  
     Side tile measurements are 25mm * Tile  x  25mm * Tile  + 8mm
-    Core tile measurements are 25mm * Tile  x 25mm * Tile  
-
+  
+    Core tile measurements are 25mm * Tile  x 25mm * Tile
+  
     An 8x8 core tile (208mm x 208mm) fits on a 220mm x 220mm printable area bed size 
 
     * [2x2 Tiles](https://thangs.com/search/%22MB110%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
