@@ -7,7 +7,9 @@ Why?   Because I couldn't keep track of all the things (even though it all just 
 
 ## YouTube Specifc Links (not just to a channel)
 [Keep Making's Multiboard playlist](https://www.youtube.com/playlist?list=PL6Fiih6ItYsV4tjGmubMmPu329aOi0otF)
-    [Multiboard: Free 3D Printed Fusion Of Everything!](https://youtu.be/sbbJ0pUYp8U?si=HT_fbXovFVzQsLmJ)
+
+#### Videos
+* [Multiboard: Free 3D Printed Fusion Of Everything!](https://youtu.be/sbbJ0pUYp8U?si=HT_fbXovFVzQsLmJ)
     
 ## Patreon Links
 [MakerTales](https://www.patreon.com/MakerTales)
@@ -15,9 +17,71 @@ Why?   Because I couldn't keep track of all the things (even though it all just 
 ## Thangs Links
 [Keep Making](https://thangs.com/designer/Keep%20Making)
 
+## Website Links
+[Multiboard.io](https://multiboard.io)
 
-## Encyclopedia
+## Print Settings
 
-.Tiles
-    ..Core Tiles
-        ...[9x9 Multiboard Core Tile](9x9 Multiboard Core Tile)
+In general, all parts should be printed with:
+
+* 3 wall perimeters
+* layout height of 0.2mm
+
+## Example Installations
+
+links here
+
+
+## Encyclopedia of Parts
+
+* Tiles
+
+    Tiles are...blah blah...add content here... They range in size from 2x2 to 16x16
+
+    A size of ##x## tile fits on a Bambu X1C bed of size ##x##x##
+
+    * [2x2 Tiles](https://thangs.com/search/%22MB110%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [3x3 Tiles](https://thangs.com/search/%22MB111%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [4x4 Tiles](https://thangs.com/search/%22MB112%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [5x5 Tiles](https://thangs.com/search/%22MB113%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [6x4 Tiles](https://thangs.com/search/%22MB3%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list)
+    * [6x6 Tiles](https://thangs.com/search/%22Multiboard1%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [7x7 Tiles](https://thangs.com/search/%22MB114%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [8x4 Tiles](https://thangs.com/search/%22MB4%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list)
+    * [8x8 Tiles](https://thangs.com/search/%22Multiboard2%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [9x9 Tiles](https://thangs.com/search/%22MB115%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [10x10 Tiles](https://thangs.com/search/%22MB116%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [11x11 Tiles](https://thangs.com/search/%22MB117%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [12x12 Tiles](https://thangs.com/search/%22MB118%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [13x13 Tiles](https://thangs.com/search/%22MB119%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [14x14 Tiles](https://thangs.com/search/%22MB120%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [15x15 Tiles](https://thangs.com/search/%22MB121%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+    * [16x16 Tiles](https://thangs.com/search/%22MB122%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
+
+    * [Multiboard Tile Generator](https://thangs.com/search/%22GE01%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list) _Supporter Only_
+
+* Snaps
+
+* Bolts
+
+* Mounts / Supports
+    * Wall Supports
+    * Feet
+    * Pole Mounts
+
+* Tools
+
+* MultiGrid
+
+* Accessories
+
+* Nuts and Rods
+
+* Rails 
+
+* Brackets
+
+
+## Known Issues
+
+content here
