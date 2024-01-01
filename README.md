@@ -36,13 +36,13 @@ links here
 
 * Tiles
 
-    Tiles are designed around 25mm units, featuring Mutiholes that support [Snaps](https://thangs.com/search/%22MB6%22%20%22MB7%22%20%22MB8%22%20%22MB9%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list) and[Big Thread](https://thangs.com/search/%22MB32%22%20%22MB33%22%20%22MB34%22%20%22MB35%22%20%22MB36%22%20%22MB37%22%20%22MB38%22%20%22MB39%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list) bolts as well as smaller Pegboard holes that support pegboard accessories asnd [Small Thread}(https://thangs.com/search/%22MB44%22%20%22MB45%22%20%22MB46%22%20%22MB57%22%20%22MB58%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list)
+    Tiles are designed around 25mm units, featuring Mutiholes that support [Snaps](https://thangs.com/search/%22MB6%22%20%22MB7%22%20%22MB8%22%20%22MB9%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list) and [Big Thread](https://thangs.com/search/%22MB32%22%20%22MB33%22%20%22MB34%22%20%22MB35%22%20%22MB36%22%20%22MB37%22%20%22MB38%22%20%22MB39%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list) bolts as well as smaller Pegboard holes that support pegboard accessories and [Small Thread](https://thangs.com/search/%22MB44%22%20%22MB45%22%20%22MB46%22%20%22MB57%22%20%22MB58%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list)
 
-Tiles range in size from 2x2 to 16x16
+    Tiles range in size from 2x2 to 16x16
 
-Core tile measurements are 25mm * Tile # + 8mm x 25mm * Tile # + 8mm
-Side tile measurements are 25mm * Tile # x  25mm * Tile # + 8mm
-Core tile measurements are 25mm * Tile # x 25mm * Tile #
+    Core tile measurements are 25mm * Tile  + 8mm x 25mm * Tile  + 8mm
+    Side tile measurements are 25mm * Tile  x  25mm * Tile  + 8mm
+    Core tile measurements are 25mm * Tile  x 25mm * Tile  
 
     An 8x8 core tile (208mm x 208mm) fits on a 220mm x 220mm printable area bed size 
 
