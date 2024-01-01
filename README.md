@@ -36,9 +36,15 @@ links here
 
 * Tiles
 
-    Tiles are...blah blah...add content here... They range in size from 2x2 to 16x16
+    Tiles are designed around 25mm units, featuring Mutiholes that support [Snaps](https://thangs.com/search/%22MB6%22%20%22MB7%22%20%22MB8%22%20%22MB9%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list) and[Big Thread](https://thangs.com/search/%22MB32%22%20%22MB33%22%20%22MB34%22%20%22MB35%22%20%22MB36%22%20%22MB37%22%20%22MB38%22%20%22MB39%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list) bolts as well as smaller Pegboard holes that support pegboard accessories asnd [Small Thread}(https://thangs.com/search/%22MB44%22%20%22MB45%22%20%22MB46%22%20%22MB57%22%20%22MB58%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list)
 
-    A size of ##x## tile fits on a Bambu X1C bed of size ##x##x##
+Tiles range in size from 2x2 to 16x16
+
+Core tile measurements are 25mm * Tile # + 8mm x 25mm * Tile # + 8mm
+Side tile measurements are 25mm * Tile # x  25mm * Tile # + 8mm
+Core tile measurements are 25mm * Tile # x 25mm * Tile #
+
+    An 8x8 core tile (208mm x 208mm) fits on a 220mm x 220mm printable area bed size 
 
     * [2x2 Tiles](https://thangs.com/search/%22MB110%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
     * [3x3 Tiles](https://thangs.com/search/%22MB111%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=grid)
