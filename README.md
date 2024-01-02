@@ -98,6 +98,10 @@ links here
             * [15 mm, Dual T Mounting Wall Support Snap - DS Part A x4 Stack](https://thangs.com/designer/Keep%20Making/3d-model/15%20mm%2C%20Dual%20T%20Mounting%20Wall%20Support%20Snap%20-%20DS%20Part%20A%20x4%20Stack-973829) _Supporter Only_
             * [15 mm, T Mounting Wall Support Snap - DS Part A](https://thangs.com/designer/Keep%20Making/3d-model/15%20mm%2C%20T%20Mounting%20Wall%20Support%20Snap%20-%20DS%20Part%20A-973935)
             * [15 mm, Dual T Mounting Wall Support Snap - DS Part A](https://thangs.com/designer/Keep%20Making/3d-model/15%20mm%2C%20Dual%20T%20Mounting%20Wall%20Support%20Snap%20-%20DS%20Part%20A-974168)
+        * Other Support Parts
+            * [T Mounting Wall Support Snaps, Guide](https://thangs.com/designer/Keep%20Making/3d-model/T%20Mounting%20Wall%20Support%20Snaps%2C%20Guide-974092)
+            * [Dual T Mounting Wall Support Snaps, Quad Connector](https://thangs.com/designer/Keep%20Making/3d-model/Dual%20T%20Mounting%20Wall%20Support%20Snaps%2C%20Quad%20Connector-974178)
+            * [Wall Support Pegs](https://thangs.com/search/%22MB22%22%20creator%3A%22Keep%20Making%22?scope=thangs&view=list)
     * Feet
     * Pole Mounts
 
